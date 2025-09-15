@@ -1,1 +1,12 @@
-# fedal987-personal-website
+# Fedal987 Personal Website SRC
+主包自己的个人网站源码
+
+## 我操我该写点什么上去吗?
+
+- 我是神秘原生js受害者
+- 懂了我马上就要使用非原生js强健你们的大脑
+- 而不是使用三大金刚折磨自己
+- 我这就写个Warning
+
+> [!WARNING]
+> 草你吗我要写个神秘彩蛋强健你们的眼睛嘻嘻
